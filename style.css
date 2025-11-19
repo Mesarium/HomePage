@@ -162,8 +162,6 @@ h3 {
 
 .btn {
     display: inline-block;
-    background-color: white;
-    color: white;
     padding: 0.5rem 1rem;
     border-radius: 4px;
     text-decoration: none;
@@ -321,4 +319,5 @@ footer {
     .footer-content {
         grid-template-columns: repeat(3, 1fr);
     }
+
 }
